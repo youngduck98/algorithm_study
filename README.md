@@ -37,3 +37,15 @@ DP(8/5)
 --------------------------
 문제: [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)
 , 코드:[보행자 천국.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/3afcccf59b370eba67cf992c13a1a7a5945b0969/%EB%B3%B4%ED%96%89%EC%9E%90%EC%B2%9C%EA%B5%AD.cpp)
+
+heap&gready
+============
+1.이중우선순위큐
+---------------
+문제: [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+, 코드: [이중우선순위큐.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/94c09f26bf1f191eb7e37bdbf460dc9355ef158f/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.cpp)
+
+2. 섬 연결하기
+----------------
+문제: [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+, 코드: [섬연결하기.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/94c09f26bf1f191eb7e37bdbf460dc9355ef158f/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.cpp)
