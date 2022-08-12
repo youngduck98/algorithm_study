@@ -1,0 +1,48 @@
+피보나치 그대로 이용시 실패
+#include<iostream>
+#include<stack>
+#include<string>
+#include<vector>
+#include<algorithm>
+
+using namespace std;
+
+int fibonacci(int n, int& a0, int&a1) {
+    if (n == 0) {
+        a0++;
+        return 0;
+    }
+    else if (n == 1) {
+        a1++;
+        return 1;
+    }
+    else {
+        return fibonacci(n-1, a0, a1) + fibonacci(n-2, a0, a1);
+    }
+}
+
+int main() {
+    int n;
+    cin >> n;
+    vector<pair<int, int>> f_answer(0);
+
+    for (int i = 0; i < n; i++) {
+        int k;
+        cin >> k;
+        int c0 = 0, c1 = 0;
+        fibonacci(k, c0, c1);
+        f_answer.push_back(make_pair(c0, c1));
+    }
+
+    for (auto p1 : f_answer) {
+        cout << p1.first << " " << p1.second << endl;
+    }
+}
+
+-> 본래 피보나치 함수가 아닌 다른 함수 이용 필요
+-> skip 할수 있는 무엇인가가 있는가?
+f(0) -> 10
+f(1) -> 01
+f(2) -> f(0) + f(1)
+f(3) -> f(1) + f(2)
+
