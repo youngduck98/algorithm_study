@@ -18,3 +18,18 @@ sort 2(7/15)
 
 문제: [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 , 코드: [캐시.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/6fc6286b1bce9468d22922a63cb15f2c067de170/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%BA%90%EC%8B%9C(%EA%B5%AC%ED%98%84).cpp)
+
+
+DP(8/5)
+1. 백준 1003번: 피보나치 함수
+
+문제: [피보나치 함수](https://www.acmicpc.net/problem/1003)
+, 코드:[1003.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/3afcccf59b370eba67cf992c13a1a7a5945b0969/%EB%B0%B1%EC%A4%801003.cpp)
+
+2. 백준 14501번: 퇴사
+문제: [퇴사](https://www.acmicpc.net/problem/14501)
+, 코드:[14501.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/3afcccf59b370eba67cf992c13a1a7a5945b0969/%EB%B0%B1%EC%A4%8014501.cpp)
+
+3. 보행자 천국
+문제: [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)
+, 코드:[보행자 천국.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/3afcccf59b370eba67cf992c13a1a7a5945b0969/%EB%B3%B4%ED%96%89%EC%9E%90%EC%B2%9C%EA%B5%AD.cpp)
