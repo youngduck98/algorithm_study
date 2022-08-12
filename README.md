@@ -38,7 +38,7 @@ DP(8/5)
 문제: [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)
 , 코드:[보행자 천국.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/3afcccf59b370eba67cf992c13a1a7a5945b0969/%EB%B3%B4%ED%96%89%EC%9E%90%EC%B2%9C%EA%B5%AD.cpp)
 
-heap&gready
+heap&gready(8/12)
 ============
 1.이중우선순위큐
 ---------------
