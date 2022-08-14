@@ -54,17 +54,12 @@ gready2(8/17)
 ===================
 1.구명 보트
 -------------
-문제: [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885
-![image](https://user-images.githubusercontent.com/97766222/184548857-7aaf19c8-135c-4479-8476-03872c5be187.png))
+문제: [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 
 2.별자리 만들기(백준 4386)
 --------------------------
-문제: [별자리 만들기](https://www.acmicpc.net/problem/4386
-![image](https://user-images.githubusercontent.com/97766222/184548884-30e7fb63-fb00-4e48-a210-34d3c2a17fc6.png)
+문제: [별자리 만들기](https://www.acmicpc.net/problem/4386)
 
 3. 지형이동
 -------------
-문제: [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050
-![image](https://user-images.githubusercontent.com/97766222/184548901-a5f8889f-bd81-47d5-9eb1-419da26f93ca.png)
-)
-)
+문제: [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050)
