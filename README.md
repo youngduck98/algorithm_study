@@ -60,6 +60,6 @@ gready2(8/17)
 --------------------------
 문제: [별자리 만들기](https://www.acmicpc.net/problem/4386)
 
-3. 지형이동
+3.지형이동
 -------------
 문제: [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050)
