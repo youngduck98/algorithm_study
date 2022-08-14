@@ -49,3 +49,22 @@ heap&gready(8/12)
 ----------------
 문제: [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 , 코드: [섬연결하기.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/94c09f26bf1f191eb7e37bdbf460dc9355ef158f/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.cpp)
+
+gready2(8/17)
+===================
+1.구명 보트
+-------------
+문제: [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885
+![image](https://user-images.githubusercontent.com/97766222/184548857-7aaf19c8-135c-4479-8476-03872c5be187.png))
+
+2.별자리 만들기(백준 4386)
+--------------------------
+문제: [별자리 만들기](https://www.acmicpc.net/problem/4386
+![image](https://user-images.githubusercontent.com/97766222/184548884-30e7fb63-fb00-4e48-a210-34d3c2a17fc6.png)
+
+3. 지형이동
+-------------
+문제: [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050
+![image](https://user-images.githubusercontent.com/97766222/184548901-a5f8889f-bd81-47d5-9eb1-419da26f93ca.png)
+)
+)
