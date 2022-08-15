@@ -55,11 +55,14 @@ gready2(8/17)
 1.구명 보트
 -------------
 문제: [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+, 코드: [구명보트.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/1c43e7086d027414f519aa9935438c2c2497fe34/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp)
 
 2.별자리 만들기(백준 4386)
 --------------------------
 문제: [별자리 만들기](https://www.acmicpc.net/problem/4386)
+, 코드: [별자리 만들기.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/master/%EB%B0%B1%EC%A4%804386.cpp)
 
 3.지형이동
 -------------
 문제: [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050)
+. 코드: [지형 이동.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/1c43e7086d027414f519aa9935438c2c2497fe34/%EC%A7%80%EC%97%AD%EC%9D%B4%EB%8F%99.cpp)
