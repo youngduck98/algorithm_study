@@ -66,3 +66,7 @@ gready2(8/17)
 -------------
 문제: [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050)
 . 코드: [지형 이동.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/1c43e7086d027414f519aa9935438c2c2497fe34/%EC%A7%80%EC%97%AD%EC%9D%B4%EB%8F%99.cpp)
+
+일일 문제풀이
+=================================
+(9/15): [오픈 채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888), 코드: [오픈 채팅방.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/ecf8f17d7d9f8e65dc4ff5db356943a20fe8c83b/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)
