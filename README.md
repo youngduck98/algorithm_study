@@ -69,4 +69,5 @@ gready2(8/17)
 
 일일 문제풀이
 =================================
-(9/15): [오픈 채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888), 코드: [오픈 채팅방.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/ecf8f17d7d9f8e65dc4ff5db356943a20fe8c83b/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)
+(9/5): [오픈 채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888), 코드: [오픈 채팅방.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/ecf8f17d7d9f8e65dc4ff5db356943a20fe8c83b/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)
+(9/6): [기능연습](https://school.programmers.co.kr/learn/courses/30/lessons/42586), 코드: [기능연습.cpp](https://github.com/youngduck98/algorithm_study_in_cau/blob/2c64ca94f0c15339211c3fcdc96d939f75a1f34c/%EA%B8%B0%EB%8A%A5%EC%97%B0%EC%8A%B5.cpp)
